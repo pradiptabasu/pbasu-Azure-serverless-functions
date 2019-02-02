@@ -2,6 +2,7 @@
 
 # https://medium.com/@andrejsabrickis/azure-functions-step-1-start-developing-serverless-functions-locally-90a21ce723b7
 # https://github.com/Azure/azure-functions-core-tools
+# https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local
 # https://www.twilio.com/docs/usage/tutorials/serverless-webhooks-azure-functions-and-node-js
 # https://www.wintellect.com/host-website-azure-functions-node-js-part-1/
 # https://itnext.io/building-single-page-app-with-azure-functions-and-improving-cold-start-time-79a0faec9913
